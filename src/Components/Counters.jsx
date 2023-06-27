@@ -51,15 +51,15 @@ export default class Counters extends Component {
   `
 
   styledTotalSpan = styled.p`
-    font-size :30px;
+    font-size :25px;
     display: flex;
     gap: 10px;
-    justify-content: center;
+  
     & span {
-      font-size :25px;
+      font-size :20px;
       background-color :#f9350a;
       color : #fff;
-      padding: 3px 7px;
+      padding: 2px 4px;
       border-radius: 7px;
 
     }
